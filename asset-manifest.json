@@ -1,29 +1,35 @@
 {
   "files": {
-    "main.css": "/static/css/main.aca0a0fb.css",
-    "main.js": "/static/js/main.5d00a6fe.js",
+    "main.css": "/static/css/main.c04ea9be.css",
+    "main.js": "/static/js/main.4a9e5dd1.js",
     "static/media/possibility.png": "/static/media/possibility.525f13b61a2157d44de0.png",
-    "static/media/blog01.png": "/static/media/blog01.cefc0932eae0d33a0342.png",
-    "static/media/blog03.png": "/static/media/blog03.d922323861096f25274f.png",
-    "static/media/blog04.png": "/static/media/blog04.742c1357e7b6c11078e6.png",
     "static/media/logoucv.png": "/static/media/logoucv.156cf4176e474712e1d5.png",
+    "static/media/blog010.png": "/static/media/blog010.bfaa1c1e3851158e0e1f.png",
+    "static/media/blog011.png": "/static/media/blog011.bfaa1c1e3851158e0e1f.png",
     "static/media/blog05.png": "/static/media/blog05.bfaa1c1e3851158e0e1f.png",
+    "static/media/blog07.png": "/static/media/blog07.bfaa1c1e3851158e0e1f.png",
+    "static/media/blog08.png": "/static/media/blog08.bfaa1c1e3851158e0e1f.png",
+    "static/media/blog09.png": "/static/media/blog09.bfaa1c1e3851158e0e1f.png",
     "static/media/blog02.png": "/static/media/blog02.ab0eb367561796e91532.png",
     "static/media/fotoPerfil.JPG": "/static/media/fotoPerfil.f666342be28310a26a29.JPG",
     "static/media/logozte.png": "/static/media/logozte.a435751dbeb96ae0e55a.png",
     "static/media/logofeibo.png": "/static/media/logofeibo.af981f71d923a0086aa2.png",
+    "static/media/blog06.png": "/static/media/blog06.cfdbf87695684fffc1c8.png",
+    "static/media/blog01.png": "/static/media/blog01.1f69299e7136e2a64fe7.png",
     "static/media/logomakro.png": "/static/media/logomakro.3ea53a956de0d4eef7cd.png",
     "static/media/logopalma.png": "/static/media/logopalma.bd60cea02d7480616403.png",
+    "static/media/blog03.png": "/static/media/blog03.cc420461f22d4a6b5ca1.png",
+    "static/media/blog04.png": "/static/media/blog04.e7a920d0ea3d8d1bb503.png",
     "static/media/logo1.png": "/static/media/logo1.bd46de8b5419293bb170.png",
     "static/media/logohaier.png": "/static/media/logohaier.031c103fddc003caa827.png",
     "static/media/people.png": "/static/media/people.5cd2d6fbcd48bd63f106.png",
     "static/media/logo.svg": "/static/media/logo.5114679faa0cce74946769ded97f1c89.svg",
     "index.html": "/index.html",
-    "main.aca0a0fb.css.map": "/static/css/main.aca0a0fb.css.map",
-    "main.5d00a6fe.js.map": "/static/js/main.5d00a6fe.js.map"
+    "main.c04ea9be.css.map": "/static/css/main.c04ea9be.css.map",
+    "main.4a9e5dd1.js.map": "/static/js/main.4a9e5dd1.js.map"
   },
   "entrypoints": [
-    "static/css/main.aca0a0fb.css",
-    "static/js/main.5d00a6fe.js"
+    "static/css/main.c04ea9be.css",
+    "static/js/main.4a9e5dd1.js"
   ]
 }
